@@ -1,0 +1,16 @@
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\bin\Debug\netcoreapp3.1\My_Calculator.exe
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\bin\Debug\netcoreapp3.1\My_Calculator.deps.json
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\bin\Debug\netcoreapp3.1\My_Calculator.runtimeconfig.json
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\bin\Debug\netcoreapp3.1\My_Calculator.runtimeconfig.dev.json
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\bin\Debug\netcoreapp3.1\My_Calculator.dll
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\bin\Debug\netcoreapp3.1\My_Calculator.pdb
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.Calculator.resources
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.csproj.GenerateResource.cache
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.AssemblyInfoInputs.cache
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.AssemblyInfo.cs
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.dll
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.pdb
+C:\Users\Shebnem\source\repos\My_Calculator\My_Calculator\obj\Debug\netcoreapp3.1\My_Calculator.genruntimeconfig.cache
